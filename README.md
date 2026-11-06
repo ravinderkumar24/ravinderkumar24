@@ -32,11 +32,6 @@ I enjoy bringing together practical engineering, experimental measurements, phys
 | **Modelling & simulation** | Synthetic diagnostics, plasma-related modelling and instrument response |
 | **Scientific computing** | Python, numerical analysis, signal processing and visualisation |
 
-## Selected public project
-
-### [Millimetre-Wave Radiometer Frequency Mapping](https://github.com/ravinderkumar24/Radiometer-Python-Practice)
-
-A small, openly documented Python project illustrating ideal RF-to-IF conversion, frequency-channel mapping and plotting. It uses synthetic calculations for learning and demonstration, not experimental ITER data.
 
 ## What I'm exploring
 
